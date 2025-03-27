@@ -1,6 +1,4 @@
 # Cybersecurity-Threat-Classification-Using-Machine-Learning
-# Cybersecurity Threat Classification
-
 ## Project Overview
 Machine learning system for classifying network threats using synthetic cybersecurity data.
 
@@ -32,4 +30,3 @@ Future Improvements
 •	Incorporate real-world cybersecurity datasets
 •	Experiment with deep learning approaches
 •	Add feature importance analysis
-![image](https://github.com/user-attachments/assets/eace71f5-2dd6-429b-a7f8-ab7bf2b9337c)
